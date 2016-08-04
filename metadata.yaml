@@ -1,0 +1,27 @@
+_repo: Amours-De-Voyage_1393
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clough, Arthur Hugh
+    alias: Clough, A. H. (Arthur Hugh)
+    birthdate: 1819
+    deathdate: 1861
+    gutenberg_agent_id: '343'
+    url: http://www.gutenberg.org/2009/agents/343
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Hugh_Clough
+description: A series of verse letters written by a young Englishman, Claude, as he
+  is making a tour of Italy, chiefly of Rome and Florence.
+gutenberg_issued: '1998-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Voyages and travels -- Poetry'
+- GITenberg
+title: Amours De Voyage
+url: http://www.gutenberg.org/ebooks/1393
