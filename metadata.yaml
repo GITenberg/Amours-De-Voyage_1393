@@ -1,5 +1,8 @@
 _repo: Amours-De-Voyage_1393
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Clough, Arthur Hugh
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Hugh_Clough
 description: A series of verse letters written by a young Englishman, Claude, as he
   is making a tour of Italy, chiefly of Rome and Florence.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1393#Amours-De-Voyage
 gutenberg_issued: '1998-07-01'
 gutenberg_type: Text
 identifiers:
